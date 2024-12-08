@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m a Data Science and Engineering enthusiast wi
 
 ### 💼 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/brianhonea)
+- [LinkedIn](https://www.linkedin.com/in/brian-honea)
 <!-- [Portfolio](https://www.brianhonea.com) (if you have one) -->
 - [Email](brianrhonea@gmail.com)
 
