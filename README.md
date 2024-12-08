@@ -29,15 +29,6 @@ Welcome to my GitHub profile! I’m a Data Science and Engineering enthusiast wi
 
 - [LinkedIn](https://www.linkedin.com/in/brianhonea)
 <!-- [Portfolio](https://www.brianhonea.com) (if you have one) -->
-- [Email](brianrhonea@email.com)
+- [Email](brianrhonea@gmail.com)
 
 Feel free to explore my repositories, open issues, or collaborate on any interesting projects!
-
-<!-- GitHub stats -->
-![Brian Honea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianhonea&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianhonea&layout=compact&theme=radical)
-
-<!-- Visitor Badge -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=brianhonea.visitor-badge)
