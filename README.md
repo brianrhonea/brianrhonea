@@ -6,12 +6,13 @@ Welcome to my GitHub profile! I’m a Data Science and Engineering enthusiast wi
 
 - **Data Engineering Projects:** Preparing data pipelines and ETL processes using cloud platforms like AWS, Azure, and GCP.
 - **Python Backend Projects:** Working with a friend to create an ultimate frisbee ranking application that connects with a cloud database.
+- **Software Development Projects:** Looking to begin growing skills in HTML, CSS, JavaScript and other frontend app frameworks to build out software development experience.
 ### 🔧 Skills & Technologies
 
-- **Programming Languages:** Python, SQL, Javascript, R
-- **Data Science Tools:** Pandas, Scikit-learn, Matplotlib, Seaborn, Pandas, SQLAlchemy, Flask, Django, React.js, Vue.js
+- **Programming Languages:** Python, SQL, Javascript, R, HTML, CSS, JavaScript, DART, Flutter
+- **Data Science and Backend Tools:** Pandas, Scikit-learn, Matplotlib, Seaborn, Pandas, SQLAlchemy, Flask, Django, React.js, Vue.js
 - **Data Engineering:** AWS, GCP, Databricks, Hive, Hadoop, Spark, Azure 
-- **Visualization Tools:** Power BI, Tableau
+- **Visualization Tools:** Power BI, Tableau, Looker
 - **Version Control:** Git, GitHub
 
 ### 📚 Recent Projects
