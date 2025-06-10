@@ -1,15 +1,16 @@
 # Hi there, I'm Brian Honea 
 
-Welcome to my GitHub profile! I’m a Data Science and Engineering enthusiast with a strong passion for healthcare, data engineering, and machine learning. I’m a new graduate with a Master’s degree in Business Analytics and Artificial Intelligence, and I’m focused on transitioning to a data engineering role with a long-term goal of leadership in the field.
+Welcome to my GitHub profile! I’m a Software Engineering and Data enthusiast with a strong passion for healthcare, data engineering, and software engineering. I’m a new graduate with a Master’s degree in Business Analytics and Artificial Intelligence, and I’m focused on transitioning to a software engineering, data engineering, data science, or analyst role with a long-term goal of leadership in the field. 
 
 ### What I'm Working On
 
 - **Data Engineering Projects:** Preparing data pipelines and ETL processes using cloud platforms like AWS, Azure, and GCP.
 - **Python Backend Projects:** Working with a friend to create an ultimate frisbee ranking application that connects with a cloud database.
 - **Software Development Projects:** Looking to begin growing skills in HTML, CSS, JavaScript and other frontend app frameworks to build out software development experience.
+  
 ###  Skills & Technologies
 
-- **Programming Languages:** Python, SQL, Javascript, R, HTML, CSS, JavaScript, DART, Flutter
+- **Programming Languages:** Python, SQL, Javascript, R, HTML, CSS, JavaScript, DART, Flutter, Java
 - **Data Science and Backend Tools:** Pandas, Scikit-learn, Matplotlib, Seaborn, Pandas, SQLAlchemy, Flask, Django, React.js, Vue.js
 - **Data Engineering:** AWS, GCP, Databricks, Hive, Hadoop, Spark, Azure 
 - **Visualization Tools:** Power BI, Tableau, Looker
@@ -23,6 +24,7 @@ Welcome to my GitHub profile! I’m a Data Science and Engineering enthusiast wi
 
 ###  I’m Currently Learning
 
+- **Software Engineering** Working on personal projects towards building mobile apps and GUIs. Trying to build applications that will mend both focuses of Data Engineering and Software Development.
 - **Data Engineering:** Working on building data pipelines, learning about cloud services like AWS and Azure, and diving deeper into data architecture.
 - **MLOps:** Understanding the deployment and monitoring of machine learning models in production environments.
 
