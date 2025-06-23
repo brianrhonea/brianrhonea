@@ -1,6 +1,6 @@
 # Hi there, I'm Brian Honea 
 
-Welcome to my GitHub profile! I’m a Software Engineering and Data enthusiast with a strong passion for healthcare, data engineering, and software engineering. I’m a new graduate with a Master’s degree in Business Analytics and Artificial Intelligence, and I’m focused on transitioning to a software engineering, data engineering, data science, or analyst role with a long-term goal of leadership in the field. 
+Welcome to my GitHub profile! I’m a Software Engineering and Data enthusiast with a strong passion for healthcare and technology. I’m a new graduate with a Master’s degree in Business Analytics and Artificial Intelligence, and I’m focused on transitioning to a software engineering, data engineering, data science, or analyst role with a long-term goal of leadership in the field. 
 
 ### What I'm Working On
 
